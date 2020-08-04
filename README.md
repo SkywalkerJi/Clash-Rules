@@ -7,6 +7,7 @@
 | DMM                   | DMM服务                                                              |
 | Kancolle              | 艦隊これくしょん -艦これ-                                              |
 | Index-IF              | とある魔術の禁書目録 幻想収束                                          |
+| GBF                   | Granblue Fantasy                                       |
 | ACG-POWER             | ACGPOWER pac提取（仅供参考，不推荐作为策略组使用）                      |
 
 #HOW TO USE：
