@@ -10,7 +10,8 @@
 | IndexIF               | とある魔術の禁書目録 幻想収束                                          |
 | GBF                   | Granblue Fantasy                                                     |
 | PCR                   | プリンセスコネクト！Re:Dive                                            |
-| Resilio Sync          | Resilio Sync下发服务器                                                |
+| ResilioSync           | Resilio Sync下发服务器                                                |
+| niconico              | niconico服务                                                         |
 | ACGPOWER              | ACGPOWER pac提取（仅供参考，不推荐作为策略组使用）                      |
 
 # HOW TO USE：
