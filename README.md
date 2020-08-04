@@ -1,4 +1,4 @@
-#Clash Rules 
+# Clash Rules 
 
 部分自用 Clash 策略规则
 
@@ -11,9 +11,12 @@
 | PCR                   | プリンセスコネクト！Re:Dive                                            |
 | ACG-POWER             | ACGPOWER pac提取（仅供参考，不推荐作为策略组使用）                      |
 
-#HOW TO USE：
+# HOW TO USE：
 
- [Clash Rule Provider](https://lancellc.gitbook.io/clash/clash-config-file/rule-provider) 
+[Clash Rule Provider](https://lancellc.gitbook.io/clash/clash-config-file/rule-provider) 
 
-#反馈
+# 反馈
+
 [Telegram](https://t.me/AdriaticSea)
+
+我只玩前两个游戏，后面的请提交issues。
