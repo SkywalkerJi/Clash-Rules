@@ -1,0 +1,9 @@
+payload:
+## > ウマ娘プリティーダービー
+  - DOMAIN,api-umamusume.cygames.jp
+  - DOMAIN-SUFFIX,cygames.jp
+  - DOMAIN-SUFFIX,umamusume.jp
+  - DOMAIN,prd-storage-app-umamusume.akamaized.net
+  - DOMAIN,prd-storage-game-umamusume.akamaized.net
+  - DOMAIN,prd-storage-umamusume.akamaized.net
+  #- DOMAIN-KEYWORD,umamusume
