@@ -2,19 +2,20 @@
 
 部分自用 Clash 策略规则
 
-| 文件名                | 包含内容                                                              |
-| --------------------- | -------------------------------------------------------------------- |
-| DMM                   | DMM服务                                                              |
-| Twitch                | Twitch服务                                                           |
-| KanColle              | 艦隊これくしょん -艦これ-                                              |
-| IndexIF               | とある魔術の禁書目録 幻想収束                                          |
-| GBF                   | Granblue Fantasy                                                     |
-| PCR                   | プリンセスコネクト！Re:Dive   
-| umamusume             | ウマ娘プリティーダービー    
-| konosubafd            | この素晴らしい世界に祝福を！ファンタスティックデイズ                          
-| ResilioSync           | Resilio Sync下发服务器                                                |
-| NicoNico              | niconico服务                                                         |
-| ACGPOWER              | ACGPOWER pac提取（仅供参考，不推荐作为策略组使用）                      |
+| 文件名      | 包含内容                                             |
+| ----------- | ---------------------------------------------------- |
+| DMM         | DMM服务                                              |
+| Twitch      | Twitch服务                                           |
+| KanColle    | 艦隊これくしょん -艦これ-                            |
+| IndexIF     | とある魔術の禁書目録 幻想収束                        |
+| GBF         | Granblue Fantasy                                     |
+| PCR         | プリンセスコネクト！Re:Dive                          |
+| umamusume   | ウマ娘プリティーダービー                             |
+| konosubafd  | この素晴らしい世界に祝福を！ファンタスティックデイズ |
+| konami      | Yu-Gi-Oh! Master Duel                                |
+| ResilioSync | Resilio Sync下发服务器                               |
+| NicoNico    | niconico服务                                         |
+| ACGPOWER    | ACGPOWER pac提取（仅供参考，不推荐作为策略组使用）   |
 
 # HOW TO USE：
 
