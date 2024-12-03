@@ -1,5 +1,6 @@
 payload:
 # >> Kancolle
+  - DOMAIN-SUFFIX,kancolle-server.com
   - IP-CIDR,203.104.209.7/32
   - IP-CIDR,203.104.209.71/32
   - IP-CIDR,203.104.209.87/32
