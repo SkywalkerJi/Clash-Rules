@@ -17,7 +17,7 @@
 | ResilioSync | Resilio Sync下发服务器                               |
 | NicoNico    | niconico服务                                         |
 | ACGPOWER    | ACGPOWER pac提取（仅供参考，不推荐作为策略组使用）   |
-
+| Cursor         | cursor服务                                              |
 ## HOW TO USE
 
 [Clash Rule Provider](https://lancellc.gitbook.io/clash/clash-config-file/rule-provider)
