@@ -35,6 +35,45 @@
 
 [群友做的自动订阅转换,远程配置选择 KanColle 玩家专用](https://acl4ssr.antientropy.xyz/)
 
+## clash yaml样例
+
+```yaml
+rule-providers:
+  cursor:
+    type: http
+    path: ./Cursor.yaml
+    url: "https://raw.githubusercontent.com/SkywalkerJi/Clash-Rules/refs/heads/master/AI/Cursor.yaml"
+    interval: 86400
+    proxy: Proxies
+    behavior: classical
+    format: yaml
+    size-limit: 0
+  anthropic:
+    type: http
+    path: ./Anthropic.yaml
+    url: "https://raw.githubusercontent.com/SkywalkerJi/Clash-Rules/refs/heads/master/AI/Anthropic.yaml"
+    interval: 86400
+    proxy: Proxies
+    behavior: classical
+    format: yaml
+    size-limit: 0
+  gemini:
+    type: http
+    path: ./Gemini.yaml
+    url: "https://raw.githubusercontent.com/SkywalkerJi/Clash-Rules/refs/heads/master/AI/Gemini.yaml"
+    interval: 86400
+    proxy: Proxies
+    behavior: classical
+    format: yaml
+    size-limit: 0
+
+rules:
+ - RULE-SET,cursor,US
+ - RULE-SET,anthropic,US
+ - RULE-SET,gemini,US
+```
+
+
 ## 反馈
 
 [Telegram](https://t.me/AdriaticSea)
