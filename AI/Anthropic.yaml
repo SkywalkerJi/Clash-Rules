@@ -4,3 +4,11 @@ payload:
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claudeusercontent.com
+  - DOMAIN-SUFFIX,intercomcdn.com
+  - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,snapcraft.io
+  - DOMAIN-SUFFIX,datadoghq.com
+  - DOMAIN-SUFFIX,facebook.net
+  - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN-SUFFIX,ubuntu.com
+  - DOMAIN-SUFFIX,githubusercontent.com
