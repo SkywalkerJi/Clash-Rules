@@ -1,0 +1,8 @@
+payload:
+# >> Adobe REJECT
+  - 'DOMAIN,ic.adobe.io,REJECT'
+  - 'DOMAIN-REGEX,^[a-z\d]{10}\.adobe\.io$,REJECT'
+  - 'DOMAIN-SUFFIX,adobestats.io,REJECT'
+  - 'DOMAIN,cc-api-data.adobe.io,REJECT'
+  - 'DOMAIN,cc-cdn.adobe.com,DIRECT'
+  - 'DOMAIN,ccmdls.adobe.com,DIRECT'
