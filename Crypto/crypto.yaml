@@ -95,6 +95,7 @@ payload:
   - DOMAIN-SUFFIX,bitflyer.jp
   - DOMAIN-SUFFIX,bithumb.com
   - DOMAIN-SUFFIX,bitmex.com
+  - DOMAIN-SUFFIX,bitnodes.io
   - DOMAIN-SUFFIX,bitquick.co
   - DOMAIN-SUFFIX,bitsquare.io
   - DOMAIN-SUFFIX,bitstamp.net

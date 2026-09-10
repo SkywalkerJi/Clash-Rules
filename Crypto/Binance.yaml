@@ -58,7 +58,7 @@ payload:
   - DOMAIN,bin-prod-new-websocket-alb-1463526464.ap-northeast-1.elb.amazonaws.com
   - DOMAIN,aad90d5c0e88c4b4285bd912f64d970d-1403944741.ap-northeast-1.elb.amazonaws.com
 
-  - DOMAIN-SUFFIX,appsflayer.com
+  - DOMAIN-SUFFIX,appsflyer.com
   - DOMAIN-SUFFIX,binance.cc
   - DOMAIN-SUFFIX,binance.charity
   - DOMAIN-SUFFIX,binance.cloud
