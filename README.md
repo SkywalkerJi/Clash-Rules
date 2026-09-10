@@ -30,6 +30,7 @@
 | AppleIntelligence     |果系AI                                 |
 | Binance     |Binance                                 |
 | Bybit     |Bybit                                 |
+| Crypto     |加密货币综合规则（交易所 / 钱包 / 链上服务 / 行情，来自 sing-box 规则转换）                                 |
 
 ## HOW TO USE
 

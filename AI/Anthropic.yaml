@@ -1,17 +1,23 @@
 payload:
 # >> Anthropic
+  - DOMAIN,browser-intake-us5-datadoghq.com
   - DOMAIN,cdn.usefathom.com
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,claudeusercontent.com
+  - DOMAIN-SUFFIX,clau.de
   - DOMAIN-SUFFIX,intercomcdn.com
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,snapcraft.io
   - DOMAIN-SUFFIX,datadoghq.com
+  - DOMAIN-SUFFIX,statsigapi.net
   - DOMAIN-SUFFIX,facebook.net
   - DOMAIN-SUFFIX,intercom.io
   - DOMAIN-SUFFIX,ubuntu.com
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-KEYWORD,claude
   - DOMAIN-KEYWORD,anthropic
+# >> Anthropic ASN 160.79.104.0/21 & 2607:6bc0::/32 (AS399358)
+  - IP-CIDR,160.79.104.0/21,no-resolve
+  - IP-CIDR6,2607:6bc0::/32,no-resolve
